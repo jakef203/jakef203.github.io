@@ -22,7 +22,7 @@ avatar_image: /img/profile.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/jake-feigum" # Add your linkedln handle
+linkedln: "https://linkedin.com/in/jake-feigum" # Add your linkedln handle
 github: "https://github.com/jakef203"  # Add your github handle
 
 paginate: 6
@@ -51,5 +51,6 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
