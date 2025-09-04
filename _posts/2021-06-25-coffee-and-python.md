@@ -57,7 +57,7 @@ I love Python & Coffee so much, here is that picture from the top of my project 
 
 ![alt text](/img/posts/coffee_python.jpg "Coffee & Python - I love them!")
 
-[](/img/posts/primes_image.jpeg "Primes - I love them!")
+![](/img/posts/primes_image.jpeg "Primes - I love them!")
 
 The above image is just linked to the actual file in my Github, but I could also link to images online, using the URL!
 
